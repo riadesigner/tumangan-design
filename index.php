@@ -12,7 +12,7 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400;1,500&display=swap" rel="stylesheet"> 
 
 </head>
 <body>
@@ -44,7 +44,9 @@
         
         <!-- SITE MAIN COLUMN -->
         <div class="site-main-column">
+
             <?php include 'tpl/site_topmenu.php'; ?>
+
             <div class="site-head">
                 <?php include 'tpl/site_main_slider.php'; ?>
             </div>
@@ -83,6 +85,9 @@
     </div>          
     <div class="site-decore-1"></div>
 </div>
-
+<script type="module">
+    import { Slider } from "./js/slider.js";
+    Slider.init("site-main-slider");
+</script>
 </body>
 </html>
