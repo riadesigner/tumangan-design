@@ -1,4 +1,4 @@
-<div class="frontpage-section-title"><a href="#">СОБЫТИЯ</a></div>
+<div class="content-section-title"><a href="#">СОБЫТИЯ</a></div>
                 <div class="frontpage-events">
                     
                     <div class="frontpage-events-row">

@@ -1,4 +1,4 @@
-<div class="frontpage-section-title">
+<div class="content-section-title">
                 <a href="#">БЛОГ</a> / <a href="#">ДНЕВНИК ПРОЕКТА</a>
                 </div>
                 <div class="frontpage-news-blog">                    

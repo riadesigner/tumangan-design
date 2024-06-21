@@ -1,4 +1,4 @@
-<div class="frontpage-section-title"><a href="#">ПАРТНЕРЫ ПРОЕКТА</a></div>
+<div class="content-section-title"><a href="#">ПАРТНЕРЫ ПРОЕКТА</a></div>
                 <div class="partners">
                     <span class="desktop">
                         <div class="partners-banner-desktop">

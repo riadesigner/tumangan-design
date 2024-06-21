@@ -1,4 +1,4 @@
-<div class="frontpage-section-title"><a href="#">ОБСУЖДЕНИЕ</a></div>
+<div class="content-section-title"><a href="#">ОБСУЖДЕНИЕ</a></div>
                 <div class="frontpage-talk">
                     <div class="frontpage-talk__cover"><p>Авторские<br>статьи:</p></div>
                     <div class="frontpage-talk__announcement">

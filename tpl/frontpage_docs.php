@@ -1,4 +1,4 @@
-<div class="frontpage-section-title"><a href="#">ДОКУМЕНТАЦИЯ</a></div>
+<div class="content-section-title"><a href="#">ДОКУМЕНТАЦИЯ</a></div>
                 <div class="frontpage-docs">
                     <div class="frontpage-docs__item">
                         <a href="#">

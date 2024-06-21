@@ -22,9 +22,9 @@
     <div class="site-main-row">    
         
         <!-- SITE LEFT COLUMN -->
-        <div class="site-left-column">            
-        
-            <?php include 'tpl/leftcolumn__logoblock.php'; ?>
+        <div class="site-left-column">
+            <a href="#" title="на главную" alt="логотип"><div class="site-left-column__header"></div></a>
+            <div class="site-left-column__slogan" alt="слоган"></div>                    
 
             <div class="site-left-column__topmenu">                
                 <?php include 'tpl/menu_special_black.php'; ?>
@@ -45,33 +45,22 @@
         <!-- SITE MAIN COLUMN -->
         <div class="site-main-column">
 
-            <?php include 'tpl/site_topmenu.php'; ?>
+
 
             <div class="site-head">
-                <?php include 'tpl/site_main_slider.php'; ?>
+                <div class="page-icon"></div>
+                <h1></h1>
             </div>
 
-            <div class="site-content">
-                
-                <?php include 'tpl/frontpage_news_blog.php'; ?>
-                
-                <hr class="invisible">
-                
-                <?php include 'tpl/frontpage_direct_speech.php'; ?>
+            <div class="frontpage-content">
+                222                
                 
                 <hr class="invisible">
+                
+         
+                
+                qweqwe
 
-                <?php include 'tpl/frontpage_passport.php'; ?>
-
-                <?php include 'tpl/frontpage_news.php'; ?>
-
-                <?php include 'tpl/frontpage_events.php'; ?>
-
-                <?php include 'tpl/frontpage_talk.php'; ?>
-
-                <?php include 'tpl/frontpage_docs.php'; ?>
-
-                <?php include 'tpl/frontpage_partners.php'; ?>
                 
                 <hr class="invisible">
 
@@ -82,7 +71,8 @@
     
     <?php include 'tpl/site_footer.php'; ?>  
 
-    </div>              
+    </div>          
+    <div class="site-decore-1"></div>
 </div>
 <script type="module">
     import { Slider } from "./js/slider.js";
