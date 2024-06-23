@@ -15,7 +15,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400;1,500&display=swap" rel="stylesheet"> 
 
 </head>
-<body>
+<body class="home">
 <div class="site-all">
     <div class="site-exclude-footer">
     <div class="site-top-row"></div>

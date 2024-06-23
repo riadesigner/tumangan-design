@@ -17,8 +17,8 @@
                             <div class="date"><span>ИЮЛЬ / 2024</span></div>
                             <h2>Общественная обьединение «Туманганский путь», Цели. Задачи. Сотрудничество
                             <div class="number">3.</div>
-                        </h2>
-                    </a>                            
+                            </h2>
+                        </a>                            
                     </div>
                 
                     <div class="frontpage-events-row">
@@ -41,4 +41,4 @@
                     </a>                            
                     </div>                                         
                 </div>    
-<div class="frontpage-link-more"><a href="#">ОТКРЫТЬ ВСЕ СОБЫТИЯ</a></div>                
+<div class="frontpage-link-more"><a href="page-all-events.php">ОТКРЫТЬ ВСЕ СОБЫТИЯ</a></div>                
