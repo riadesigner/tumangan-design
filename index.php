@@ -84,9 +84,5 @@
 
     </div>              
 </div>
-<script type="module">
-    import { Slider } from "./js/slider.js";
-    Slider.init("site-main-slider");
-</script>
 </body>
 </html>

@@ -39,3 +39,10 @@
 <div class="site-footer__section-developer">
     <a href="#">разработчик сайта</a>
 </div>    
+
+<script type="module">
+    import { Slider } from "./js/slider.js";
+    import { Menu1 } from "./js/leftcolumn-menu-1.js";
+    Slider.init("site-main-slider");
+    Menu1.init("menu-left-column-1", "btn-toggle");
+</script>

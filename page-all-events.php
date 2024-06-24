@@ -80,6 +80,21 @@
                         <div class="event_title">Общественная обьединение «Туманганский путь», Цели. Задачи. Сотрудничество</div>                        
                         <div class="number">3.</div>                        
                     </a>
+                    <a href="#" class="all-events__item">
+                            <div class="date"><span>СЕНТЯБРЬ  / 2024</span></div>
+                            <div class="event_title">Открытие международного, речного круизного маршрута в Российско-китайско- северокорейском трехграничье. Проекты и инициативы</div>
+                            <div class="number">1.</div>
+                    </a>
+                    <a href="#" class="all-events__item">
+                        <div class="date"><span>ОКТЯБРЬ / 2024</span></div>
+                        <div class="event_title">Трансграничный туристический кластер «Туристско-рекреационный комплекс в Хасанском районе РФ с осью движения по реке Туманная (Туманган)»  и инвестиционная программа проекта</div>
+                        <div class="number">2.</div>
+                    </a>
+                    <a href="#" class="all-events__item">
+                        <div class="date"><span>ИЮЛЬ / 2024</span></div>
+                        <div class="event_title">Общественная обьединение «Туманганский путь», Цели. Задачи. Сотрудничество</div>                        
+                        <div class="number">3.</div>                        
+                    </a>                    
                </div> 
 
                <nav class="alignwide wp-block-query-pagination is-content-justification-space-between is-layout-flex wp-container-core-query-pagination-is-layout-1 wp-block-query-pagination-is-layout-flex" aria-label="Разделение на страницы">

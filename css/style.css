@@ -110,15 +110,19 @@ hr.leftcolumn-redline-long{padding:0;border-top:2px solid #C8333E;width: 100%;ma
 
 /* ------------------ MENU LEFT_COLUMN_3 ---------------- */
 .menu-left-column-3{margin: 0 0 3vw 0;}
-.menu-left-column-3 ul{list-style: none;padding:0;margin: 0;;}
+.menu-left-column-3 ul{list-style: none;padding:0;margin: 0; display: none;}
 .menu-left-column-3 ul li{font:400 .8rem "Roboto", arial;margin:0 0 .5rem 0;color:white;}
 .menu-left-column-3 ul li a{color:white;display: block;background-color: #C8333E;padding:8px 0 8px 40px;text-decoration: none;}
 .menu-left-column-3 .show-more-decore{
-    height:12vw;position: relative;
+    height:12vw;position: relative;display: none;
     margin:1vw 0 .5vw 0;background: url("../img/menu-decore-2.svg") no-repeat 20% bottom /auto 120%;
 }
-.menu-left-column-3 .show-more-link a{font:300 1rem "Roboto",arial; display: block;color:#C8333E;text-decoration: none;line-height: 1;;}
-.menu-left-column-3 .show-more-link a:hover{text-decoration: underline;}
+.menu-left-column-3 .show-more-link a{font:300 1rem "Roboto",arial; display: inline-block;color:#C8333E;text-decoration: none;line-height: 1;border:1px solid #C8333E;padding:10px 20px;}
+.menu-left-column-3 .show-more-link a:hover{color: #ffffff;background-color: #C8333E;}
+body.home .menu-left-column-3 ul,
+body.home .menu-left-column-3 .show-more-decore {display: block;}
+body.home .menu-left-column-3 .show-more-link a{ border:none;display: block;padding:0;}
+body.home .menu-left-column-3 .show-more-link a:hover{text-decoration: underline;color:#C8333E;background-color: #ffffff;}
 
 
 /* ------------------ MAIN SLIDER ---------------- */
@@ -652,6 +656,7 @@ nav .wp-block-query-pagination-numbers{display: inline-block;margin:0 20px;}
     display: block;border-bottom: 1px solid #C8333E;width: 49%;
     padding:0;position: relative;text-decoration: none;min-height: 14vw;;
 }
+.site-content .all-events>a .number{position: absolute;bottom:0;left:1vw;font:italic 300 3vw "Roboto",arial; color: #C8333E;}
 .site-content .all-events>a::after{content:"";position: absolute;bottom:0;border-left:1px solid #C8333E;left:0;height:3vw;}
 .site-content .all-events>a .date{ background-color: #C8333E;text-align: center;padding:10px 20px; font:400 1vw "Roboto", arial;}
 .site-content .all-events>a .date span{color: #F3D4D7;transition: .3s;display: block;}
