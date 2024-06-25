@@ -48,7 +48,7 @@
             <div class="breadcrumbs"><a href="#">Главная</a>  /  Новости</div>
 
             <div class="site-head inside">
-                    <div class="page-icon"></div>            
+                    <div class="page-icon news"></div>            
                     <H1>Все новости</H1>                    
             </div>
 
@@ -57,11 +57,11 @@
 
             <nav class="alignwide wp-block-query-pagination is-content-justification-space-between is-layout-flex wp-container-core-query-pagination-is-layout-1 wp-block-query-pagination-is-layout-flex" aria-label="Разделение на страницы">
             <div class="wp-block-query-pagination-numbers"><span aria-current="page" class="page-numbers current">1</span>
-            <a class="page-numbers" href="http://localhost/tumangan-site/page/2/">2</a>
-            <a class="page-numbers" href="http://localhost/tumangan-site/page/3/">3</a>
+            <a class="page-numbers" href="#">2</a>
+            <a class="page-numbers" href="#">3</a>
             <span class="page-numbers dots">…</span>
-            <a class="page-numbers" href="http://localhost/tumangan-site/page/11/">11</a></div>
-            <a href="http://localhost/tumangan-site/page/2/" class="wp-block-query-pagination-next has-small-font-size">Следующая страница<span class="wp-block-query-pagination-next-arrow is-arrow-arrow" aria-hidden="true">→</span></a>
+            <a class="page-numbers" href="#">11</a></div>
+            <a href="#" class="wp-block-query-pagination-next has-small-font-size">Следующая страница<span class="wp-block-query-pagination-next-arrow is-arrow-arrow" aria-hidden="true">→</span></a>
             </nav>
 
                <div class="all-news">                
@@ -99,16 +99,15 @@
 
                </div> 
 
+
                <nav class="alignwide wp-block-query-pagination is-content-justification-space-between is-layout-flex wp-container-core-query-pagination-is-layout-1 wp-block-query-pagination-is-layout-flex" aria-label="Разделение на страницы">
-                <div class="wp-block-query-pagination-numbers">
-                    <span aria-current="page" class="page-numbers current">1</span>
-                    <a class="page-numbers" href="http://localhost/tumangan-site/page/2/">2</a>
-                    <a class="page-numbers" href="http://localhost/tumangan-site/page/3/">3</a>
-                    <span class="page-numbers dots">…</span>
-                    <a class="page-numbers" href="http://localhost/tumangan-site/page/11/">11</a>
-                </div>
-                <a href="http://localhost/tumangan-site/page/2/" class="wp-block-query-pagination-next has-small-font-size">Следующая страница<span class="wp-block-query-pagination-next-arrow is-arrow-arrow" aria-hidden="true">→</span></a>
-                </nav>               
+            <div class="wp-block-query-pagination-numbers"><span aria-current="page" class="page-numbers current">1</span>
+            <a class="page-numbers" href="#">2</a>
+            <a class="page-numbers" href="#">3</a>
+            <span class="page-numbers dots">…</span>
+            <a class="page-numbers" href="#">11</a></div>
+            <a href="#" class="wp-block-query-pagination-next has-small-font-size">Следующая страница<span class="wp-block-query-pagination-next-arrow is-arrow-arrow" aria-hidden="true">→</span></a>
+            </nav>             
 
             </div>
         </div>

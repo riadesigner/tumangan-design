@@ -43,6 +43,8 @@
 <script type="module">
     import { Slider } from "./js/slider.js";
     import { Menu1 } from "./js/leftcolumn-menu-1.js";
+    import { Subpages } from "./js/subpages-menu.js";
     Slider.init("site-main-slider");
     Menu1.init("menu-left-column-1", "btn-toggle");
+    Subpages.init("sub-section", "btn-toggle");
 </script>

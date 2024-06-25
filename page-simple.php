@@ -15,7 +15,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400;1,500&display=swap" rel="stylesheet"> 
 
 </head>
-<body class="page-inside">
+<body class="page-inside has-not-subpages">
 <div class="site-all">
     <div class="site-exclude-footer">
     <div class="site-top-row"></div>
@@ -45,48 +45,15 @@
         <!-- SITE MAIN COLUMN -->
         <div class="site-main-column">
         
-            <div class="breadcrumbs"><a href="#">Главная</a> / <a href="#">Устав</a>  /  Предпосылки проекта </div>
+            <div class="breadcrumbs"><a href="#">Главная</a> / Команда проекта </div>
 
             <div class="site-head inside">
                     <div class="page-icon pages"></div>            
-                    <H1>Устав</H1>
-                    <div class="sub-section opened">
-                        <div class="sub-section__title btn-toggle">
-                            <span>Все разделы</span>
-                        </div>
-                        <ul class="menu">
-                        <li class="current"><a href="#">Предпосылки проекта</a></li>
-                        <li><a href="#">Название проекта</a></li>
-                        <li><a href="#">Общее описание проекта</a></li>
-                        <li><a href="#">Цели и Задачи проекта</a></li>
-                        <li><a href="#">Миссия и Видение проекта</a></li>
-                        <li><a href="#">Результаты проекта</a></li>
-                        <li><a href="#">Бенефициары проекта. Их роли и интересы</a></li>
-                        <li><a href="#">Вовлеченные стороны. Их роли и интересы</a></li>
-                        <li><a href="#">Требование к документации проекта со стороны Бенефициаров и Вовлеченных сторон</a></li> 
-                        <li><a href="#">Требования к GR и PR</a></li>
-                        <li><a href="#">Команда проекта и организационная структура</a></li>
-                        <li><a href="#">Взаимоотношения между бенефициарами, Юридическая структура проекта</a></li>
-                        <li><a href="#">Ключевые фазы и этапы проекта</a></li>
-                        <li><a href="#">Дорожные карты основных этапов проекта</a></li> 
-                        <li><a href="#">Модель принятия решения по переходу на последующие стадии проекта</a></li>
-                        <li><a href="#">Сроки и план-график реализации проекта</a></li>
-                        <li><a href="#">Ресурсы и бюджет проекта</a></li>
-                        <li><a href="#">Источники финансирования проекта</a></li>
-                        <li><a href="#">Основные Бизнес-процессы</a></li>
-                        <li><a href="#">Методология управления проектом (SCRUM/WATERFALL,</li</a>> BSC)
-                        <li><a href="#">Среда управления проектом (MS Project, Битрикс 24 и т.д</</a>li>)
-                        <li><a href="#">Языковая среда проекта</a></li>
-                        <li><a href="#">Ограничения проекта</a></li>
-                        <li><a href="#">Предположения проекта</a></li>
-                        <li><a href="#">Риски проекта</a></li>                            
-                        </ul>
-                    </div>
+                    <H1>Команда проекта</H1>
             </div>
 
             <div class="site-content inside">
-            
-            <h1 class="article-title">Предпосылки проекта</h1>
+                        
             <div class="article-date">12 августа 2024</div>
 
             <article>                
@@ -108,23 +75,7 @@
                     
             </article>            
 
-            <div class="content-section-title"><a href="#">ЕЩЕ РАЗДЕЛЫ</a></div>
-                
-                <div class="prev-next">
-                    <div class="prev empty">
-                        <a href="#">
-                            <button><span>назад</span></button>
-                            <p>Цели и Задачи проекта</p>
-                        </a>
-                    </div>
-                    <div class="next">
-                        <a href="#">
-                            <button><span>вперед</span></button>
-                            <p>Результаты проекта</p>
-                        </a>
-                    </div>
-                </div>            
-
+            <hr class="article-end">
 
             </div>
         </div>

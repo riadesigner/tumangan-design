@@ -1,5 +1,5 @@
 <div class="frontpage-direct-speech">
-                    <a href="#">
+                    <a href="page-author.php">
                     <div class="frontpage-direct-speech__decore-1"></div>
                     <div class="frontpage-direct-speech__section-title">ПРЯМАЯ РЕЧЬ</div>
                     <div class="frontpage-direct-speech__content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna </div>

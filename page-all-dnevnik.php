@@ -45,15 +45,14 @@
         <!-- SITE MAIN COLUMN -->
         <div class="site-main-column">
         
-            <div class="breadcrumbs"><a href="#">Главная</a>  /  События</div>
+            <div class="breadcrumbs"><a href="#">Главная</a>  /  Новости</div>
 
             <div class="site-head inside">
-                    <div class="page-icon events"></div>            
-                    <H1>Все события</H1>                    
+                    <div class="page-icon dnevnik"></div>            
+                    <H1>Дневник проекта</H1>                    
             </div>
 
             <div class="site-content inside">
-
 
 
             <nav class="alignwide wp-block-query-pagination is-content-justification-space-between is-layout-flex wp-container-core-query-pagination-is-layout-1 wp-block-query-pagination-is-layout-flex" aria-label="Разделение на страницы">
@@ -65,37 +64,36 @@
             <a href="#" class="wp-block-query-pagination-next has-small-font-size">Следующая страница<span class="wp-block-query-pagination-next-arrow is-arrow-arrow" aria-hidden="true">→</span></a>
             </nav>
 
-               <div class="all-events">                
-                    <a href="#" class="all-events__item">
-                            <div class="date"><span>СЕНТЯБРЬ  / 2024</span></div>
-                            <div class="event_title">Открытие международного, речного круизного маршрута в Российско-китайско- северокорейском трехграничье. Проекты и инициативы</div>
-                            <div class="number">1.</div>
+               <div class="all-dnevnik">                
+                    <a href="page-news.php" class="preview">
+                        <div class="dnevnik-data"><span>дневник – <nobr>15 сентября 24</nobr></span></div>
+                        <div class="dnevnik-title">Трансграничный туристический кластер «Туристско- рекреационный комплекс в Хасанском районе ...</div>                        
                     </a>
-                    <a href="#" class="all-events__item">
-                        <div class="date"><span>ОКТЯБРЬ / 2024</span></div>
-                        <div class="event_title">Трансграничный туристический кластер «Туристско-рекреационный комплекс в Хасанском районе РФ с осью движения по реке Туманная (Туманган)»  и инвестиционная программа проекта</div>
-                        <div class="number">2.</div>
+                    <a href="page-news.php" class="preview">                        
+                        <div class="dnevnik-data"><span>дневник – <nobr>15 сентября 24</nobr></span></div>
+                        <div class="dnevnik-title">Научно-исследовательская экспедиция по реке  Туманная в Фуньчуань (КНР) 2024</div>                        
                     </a>
-                    <a href="#" class="all-events__item">
-                        <div class="date"><span>ИЮЛЬ / 2024</span></div>
-                        <div class="event_title">Общественная обьединение «Туманганский путь», Цели. Задачи. Сотрудничество</div>                        
-                        <div class="number">3.</div>                        
+                    <a href="page-news.php" class="preview">                        
+                        <div class="dnevnik-data"><span>дневник – <nobr>15 сентября 24</nobr></span></div>
+                        <div class="dnevnik-title">Научно-исследовательская экспедиция по реке  Туманная в Фуньчуань (КНР) 2024</div>                        
+                    </a>                                        
+                    <a href="page-news.php" class="preview">                        
+                        <div class="dnevnik-data"><span>дневник – <nobr>15 сентября 24</nobr></span></div>
+                        <div class="dnevnik-title">Трансграничный туристический кластер «Туристско- рекреационный комплекс в Хасанском районе ...</div>                        
                     </a>
-                    <a href="#" class="all-events__item">
-                            <div class="date"><span>СЕНТЯБРЬ  / 2024</span></div>
-                            <div class="event_title">Открытие международного, речного круизного маршрута в Российско-китайско- северокорейском трехграничье. Проекты и инициативы</div>
-                            <div class="number">4.</div>
+                    <a href="page-news.php" class="preview">                        
+                        <div class="dnevnik-data"><span>дневник – <nobr>15 сентября 24</nobr></span></div>
+                        <div class="dnevnik-title">Научно-исследовательская экспедиция по реке  Туманная в Фуньчуань (КНР) 2024</div>                        
                     </a>
-                    <a href="#" class="all-events__item">
-                        <div class="date"><span>ОКТЯБРЬ / 2024</span></div>
-                        <div class="event_title">Трансграничный туристический кластер «Туристско-рекреационный комплекс в Хасанском районе РФ с осью движения по реке Туманная (Туманган)»  и инвестиционная программа проекта</div>
-                        <div class="number">5.</div>
-                    </a>
-                    <a href="#" class="all-events__item">
-                        <div class="date"><span>ИЮЛЬ / 2024</span></div>
-                        <div class="event_title">Общественная обьединение «Туманганский путь», Цели. Задачи. Сотрудничество</div>                        
-                        <div class="number">6.</div>                        
+                    <a href="page-news.php" class="preview">                        
+                        <div class="dnevnik-data"><span>дневник – <nobr>15 сентября 24</nobr></span></div>
+                        <div class="dnevnik-title">Научно-исследовательская экспедиция по реке  Туманная в Фуньчуань (КНР) 2024</div>                        
+                    </a>                                        
+                    <a href="page-news.php" class="preview">
+                        <div class="dnevnik-data"><span>дневник – <nobr>15 сентября 24</nobr></span></div>
+                        <div class="dnevnik-title">Трансграничный туристический кластер «Туристско- рекреационный комплекс в Хасанском районе ...</div>                        
                     </a>                    
+
                </div> 
 
 
@@ -106,7 +104,7 @@
             <span class="page-numbers dots">…</span>
             <a class="page-numbers" href="#">11</a></div>
             <a href="#" class="wp-block-query-pagination-next has-small-font-size">Следующая страница<span class="wp-block-query-pagination-next-arrow is-arrow-arrow" aria-hidden="true">→</span></a>
-            </nav>              
+            </nav>             
 
             </div>
         </div>

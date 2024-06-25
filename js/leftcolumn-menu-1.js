@@ -7,7 +7,7 @@ export const Menu1 = {
     },
     behavior:function(){
         const _this=this; 
-        this.$menus.each(function(i,e){
+        this.$buttons.each(function(i,e){
             $(this).on("click",()=>{
                 console.log(i)
                 _this.$menus.eq(i).toggleClass('opened');

@@ -53,7 +53,7 @@
 
             <div class="site-content">
                 
-                <?php include 'tpl/frontpage_news_blog.php'; ?>
+                <?php include 'tpl/frontpage_dnevnik.php'; ?>
                 
                 <hr class="invisible">
                 
