@@ -15,10 +15,15 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400;1,500&display=swap" rel="stylesheet"> 
 
 </head>
-<body class="page-inside">
+<body class="page-inside has-sub-sections">
 <div class="site-all">
     <div class="site-exclude-footer">
     <div class="site-top-row"></div>
+
+    <div class="site-mobile-header mobile">
+        <a href="index.php" class="go-home-inner-link"></a>
+    </div>
+
     <div class="site-main-row">    
         
         <!-- SITE LEFT COLUMN -->
@@ -131,7 +136,7 @@
     </div>
     </div>
     
-    <?php include 'tpl/site_footer.php'; ?>  
+    <?php include 'tpl/footer.php'; ?>  
 
     </div>          
     <div class="site-decore-1"></div>

@@ -104,7 +104,7 @@
     </div>
     </div>
     
-    <?php include 'tpl/site_footer.php'; ?>  
+    <?php include 'tpl/footer.php'; ?>  
 
     </div>          
     <div class="site-decore-1"></div>

@@ -19,6 +19,11 @@
 <div class="site-all">
     <div class="site-exclude-footer">
     <div class="site-top-row"></div>
+
+    <div class="site-mobile-header mobile">
+        <a href="index.php" class="go-home-inner-link"></a>
+    </div>
+    
     <div class="site-main-row">    
         
         <!-- SITE LEFT COLUMN -->
@@ -53,7 +58,7 @@
             </div>
 
             <div class="site-content inside">
-                        
+            
             <div class="article-date">12 августа 2024</div>
 
             <article>                
@@ -82,7 +87,7 @@
     </div>
     </div>
     
-    <?php include 'tpl/site_footer.php'; ?>  
+    <?php include 'tpl/footer.php'; ?>  
 
     </div>          
     <div class="site-decore-1"></div>

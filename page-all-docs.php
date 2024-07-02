@@ -50,16 +50,15 @@
         <!-- SITE MAIN COLUMN -->
         <div class="site-main-column">
         
-            <div class="breadcrumbs"><a href="#">Главная</a>  /  События</div>
+            <div class="breadcrumbs"><a href="#">Главная</a>  /  Документы</div>
 
             <div class="site-head inside">
-                    <div class="page-icon events"></div>            
-                    <H1>Все события</H1>   
-                    <div class="special-links">Расписание</div>                                            
+                    <div class="page-icon news"></div>            
+                    <H1>Документы проекта</H1>       
+                    <div class="special-links">Все документы</div>                    
             </div>
 
             <div class="site-content inside">
-
 
 
             <nav class="alignwide wp-block-query-pagination is-content-justification-space-between is-layout-flex wp-container-core-query-pagination-is-layout-1 wp-block-query-pagination-is-layout-flex" aria-label="Разделение на страницы">
@@ -71,37 +70,34 @@
             <a href="#" class="wp-block-query-pagination-next has-small-font-size">Следующая страница<span class="wp-block-query-pagination-next-arrow is-arrow-arrow" aria-hidden="true">→</span></a>
             </nav>
 
-               <div class="all-events">                
-                    <a href="#" class="all-events__item">
-                            <div class="date"><span>СЕНТЯБРЬ  / 2024</span></div>
-                            <div class="event_title">Открытие международного, речного круизного маршрута в Российско-китайско- северокорейском трехграничье. Проекты и инициативы</div>
-                            <div class="number">1.</div>
-                    </a>
-                    <a href="#" class="all-events__item">
-                        <div class="date"><span>ОКТЯБРЬ / 2024</span></div>
-                        <div class="event_title">Трансграничный туристический кластер «Туристско-рекреационный комплекс в Хасанском районе РФ с осью движения по реке Туманная (Туманган)»  и инвестиционная программа проекта</div>
-                        <div class="number">2.</div>
-                    </a>
-                    <a href="#" class="all-events__item">
-                        <div class="date"><span>ИЮЛЬ / 2024</span></div>
-                        <div class="event_title">Общественная обьединение «Туманганский путь», Цели. Задачи. Сотрудничество</div>                        
-                        <div class="number">3.</div>                        
-                    </a>
-                    <a href="#" class="all-events__item">
-                            <div class="date"><span>СЕНТЯБРЬ  / 2024</span></div>
-                            <div class="event_title">Открытие международного, речного круизного маршрута в Российско-китайско- северокорейском трехграничье. Проекты и инициативы</div>
-                            <div class="number">4.</div>
-                    </a>
-                    <a href="#" class="all-events__item">
-                        <div class="date"><span>ОКТЯБРЬ / 2024</span></div>
-                        <div class="event_title">Трансграничный туристический кластер «Туристско-рекреационный комплекс в Хасанском районе РФ с осью движения по реке Туманная (Туманган)»  и инвестиционная программа проекта</div>
-                        <div class="number">5.</div>
-                    </a>
-                    <a href="#" class="all-events__item">
-                        <div class="date"><span>ИЮЛЬ / 2024</span></div>
-                        <div class="event_title">Общественная обьединение «Туманганский путь», Цели. Задачи. Сотрудничество</div>                        
-                        <div class="number">6.</div>                        
-                    </a>                    
+               <div class="all-docs">                
+ 
+                <a class="all-docs__item" href="page.php">
+                    <h2>Генеральный партнер проекта «Хуньчуньская городская строительная инвестиционная компания с ограниченной ответственностью Света Шелкового пути» (Китай)</h2>
+                    <div class="goto"><span></span><span></span></div>
+                </a>
+                <a class="all-docs__item" href="page.php">
+                    <h2>Генеральный партнер проекта «Хуньчуньская городская строительная инвестиционная компания с ограниченной ответственностью Света Шелкового пути» (Китай)</h2>
+                    <div class="goto"><span></span><span></span></div>
+                </a>
+                <a class="all-docs__item" href="page.php">
+                    <h2>Генеральный партнер проекта «Хуньчуньская городская строительная инвестиционная компания с ограниченной ответственностью Света Шелкового пути» (Китай)</h2>
+                    <div class="goto"><span></span><span></span></div>
+                </a>                                
+                <a class="all-docs__item" href="page.php">
+                    <h2>Генеральный партнер проекта «Хуньчуньская городская строительная инвестиционная компания с ограниченной ответственностью Света Шелкового пути» (Китай)</h2>
+                    <div class="goto"><span></span><span></span></div>
+                </a>
+                <a class="all-docs__item" href="page.php">
+                    <h2>Генеральный партнер проекта «Хуньчуньская городская строительная инвестиционная компания с ограниченной ответственностью Света Шелкового пути» (Китай)</h2>
+                    <div class="goto"><span></span><span></span></div>
+                </a>
+                <a class="all-docs__item" href="page.php">
+                    <h2>Генеральный партнер проекта «Хуньчуньская городская строительная инвестиционная компания с ограниченной ответственностью Света Шелкового пути» (Китай)</h2>
+                    <div class="goto"><span></span><span></span></div>
+                </a>                                                
+                      
+
                </div> 
 
 
@@ -112,7 +108,7 @@
             <span class="page-numbers dots">…</span>
             <a class="page-numbers" href="#">11</a></div>
             <a href="#" class="wp-block-query-pagination-next has-small-font-size">Следующая страница<span class="wp-block-query-pagination-next-arrow is-arrow-arrow" aria-hidden="true">→</span></a>
-            </nav>              
+            </nav>             
 
             </div>
         </div>

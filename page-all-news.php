@@ -19,6 +19,11 @@
 <div class="site-all">
     <div class="site-exclude-footer">
     <div class="site-top-row"></div>
+
+    <div class="site-mobile-header mobile">
+        <a href="index.php" class="go-home-inner-link"></a>
+    </div>
+
     <div class="site-main-row">    
         
         <!-- SITE LEFT COLUMN -->
@@ -49,7 +54,8 @@
 
             <div class="site-head inside">
                     <div class="page-icon news"></div>            
-                    <H1>Все новости</H1>                    
+                    <H1>Все новости</H1>     
+                    <div class="special-links">Все новости</div>                      
             </div>
 
             <div class="site-content inside">
@@ -65,33 +71,33 @@
             </nav>
 
                <div class="all-news">                
-                    <a href="#" class="news-announsment">
+                    <a href="page-news.php" class="news-announsment has-image">
                         <div class="news-image" style="background-image:url('../uploads/image-5.jpg')"></div>
                         <div class="news-title">Трансграничный туристический кластер «Туристско- рекреационный комплекс в Хасанском районе ...</div>
                         <div class="news-data">15 СЕНТЯБРЯ 24</div>
                     </a>
-                    <a href="#" class="news-announsment">                        
+                    <a href="page-news.php" class="news-announsment">                        
                         <div class="news-title">Научно-исследовательская экспедиция по реке  Туманная в Фуньчуань (КНР) 2024</div>
                         <div class="news-data">15 СЕНТЯБРЯ 24</div>
                     </a>
-                    <a href="#" class="news-announsment">                        
-                        <div class="news-title">Научно-исследовательская экспедиция по реке  Туманная в Фуньчуань (КНР) 2024</div>
+                    <a href="page-news.php" class="news-announsment">                        
+                        <div class="news-title ">Научно-исследовательская экспедиция по реке  Туманная в Фуньчуань (КНР) 2024</div>
                         <div class="news-data">15 октября 24</div>
                     </a>                                        
-                    <a href="#" class="news-announsment">
-                        <div class="news-image" style="background-image:url('../uploads/image-2.jpg')"></div>
+                    <a href="page-news.php" class="news-announsment has-image">
+                        <div class="news-image " style="background-image:url('../uploads/image-2.jpg')"></div>
                         <div class="news-title">Трансграничный туристический кластер «Туристско- рекреационный комплекс в Хасанском районе ...</div>
                         <div class="news-data">15 ноября 24</div>
                     </a>
-                    <a href="#" class="news-announsment">                        
+                    <a href="page-news.php" class="news-announsment">                        
                         <div class="news-title">Научно-исследовательская экспедиция по реке  Туманная в Фуньчуань (КНР) 2024</div>
                         <div class="news-data">15 ноября 24</div>
                     </a>
-                    <a href="#" class="news-announsment">                        
+                    <a href="page-news.php" class="news-announsment">                        
                         <div class="news-title">Научно-исследовательская экспедиция по реке  Туманная в Фуньчуань (КНР) 2024</div>
                         <div class="news-data">15 декабря 24</div>
                     </a>                                        
-                    <a href="#" class="news-announsment">
+                    <a href="page-news.php" class="news-announsment has-image">
                         <div class="news-image" style="background-image:url('../uploads/image-3.jpg')"></div>
                         <div class="news-title">Трансграничный туристический кластер «Туристско- рекреационный комплекс в Хасанском районе ...</div>
                         <div class="news-data">15 декабря 24</div>
@@ -114,7 +120,7 @@
     </div>
     </div>
     
-    <?php include 'tpl/site_footer.php'; ?>  
+    <?php include 'tpl/footer.php'; ?>  
 
     </div>          
     <div class="site-decore-1"></div>

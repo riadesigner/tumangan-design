@@ -19,6 +19,11 @@
 <div class="site-all">
     <div class="site-exclude-footer">
     <div class="site-top-row"></div>
+
+    <div class="site-mobile-header mobile">
+        <a href="index.php" class="go-home-inner-link"></a>
+    </div>
+
     <div class="site-main-row">    
         
         <!-- SITE LEFT COLUMN -->
@@ -45,11 +50,12 @@
         <!-- SITE MAIN COLUMN -->
         <div class="site-main-column">
         
-            <div class="breadcrumbs"><a href="#">Главная</a>  /  Новости</div>
+            <div class="breadcrumbs"><a href="#">Главная</a>  /   Дневник</div>
 
             <div class="site-head inside">
                     <div class="page-icon dnevnik"></div>            
                     <H1>Дневник проекта</H1>                    
+                    <div class="special-links">Все события</div>       
             </div>
 
             <div class="site-content inside">
@@ -111,7 +117,7 @@
     </div>
     </div>
     
-    <?php include 'tpl/site_footer.php'; ?>  
+    <?php include 'tpl/footer.php'; ?>  
 
     </div>          
     <div class="site-decore-1"></div>

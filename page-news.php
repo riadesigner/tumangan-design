@@ -19,6 +19,11 @@
 <div class="site-all">
     <div class="site-exclude-footer">
     <div class="site-top-row"></div>
+    
+    <div class="site-mobile-header mobile">
+        <a href="index.php" class="go-home-inner-link"></a>
+    </div>
+    
     <div class="site-main-row">    
         
         <!-- SITE LEFT COLUMN -->
@@ -43,14 +48,14 @@
         </div>
         
         <!-- SITE MAIN COLUMN -->
-        <div class="site-main-column">
+        <div class="site-main-column">            
         
-            <div class="breadcrumbs"><a href="#">Главная</a>  /  <a href="#">Новости</a>  /  ...</div>
+            <div class="breadcrumbs"><a href="index.php">Главная</a>  /  <a href="#">Новости</a>  /  ...</div>
 
             <div class="site-head inside">
                 <a href="#" class="news-image" style="
                 background-image:url('../uploads/image-3.jpg')"></a>
-                <h1>170 лет прихода фрегата Паллада к берегам Кореи и Уссурийского края экспедиции адмирала Е.В. Путятина</h1>
+                <h1>170 лет прихода фрегата Паллада к берегам Кореи и Уссурийского края экспедиции адмирала Е.В. Путятина</h1>
                 <div class="page-date">12 августа 2024</div>
             </div>
 
@@ -73,19 +78,21 @@
 
                     <p>Муниципального района является Федеральная целевая программа  "Развитие внутреннего и въездного туризма в Российской Федерации» которая ориентирует на развитие туристской инфраструктуры развития внутреннего и въездного туризма, а так-же реализации проектов федерального масштаба, направленных на развитие туристских возможностей (маршрутов) и повышение качества услуг в том числе посредством расширения спектра и повышения уровня услуг, оказываемых российским и иностранным туристам.</p>    
 
+                    <p>"Развитие внутреннего и въездного туризма в Российской Федерации» которая ориентирует на развитие туристской инфраструктуры развития внутреннего и въездного туризма, а так-же реализации проектов федерального масштаба, направленных на развитие туристских возможностей (маршрутов) и повышение качества услуг.</p>    
+
                     <hr>
 
                     <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
-                        <figure class="wp-block-image size-large"><a href="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-3.jpg"><img fetchpriority="high" decoding="async" width="1024" height="684" data-id="7" src="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-3-1024x684.jpg" alt="" class="wp-image-7" srcset="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-3-1024x684.jpg 1024w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-3-300x200.jpg 300w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-3-768x513.jpg 768w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-3.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
-                        <figure class="wp-block-image size-large"><a href="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-1.jpg"><img decoding="async" width="1024" height="653" data-id="11" src="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-1-1024x653.jpg" alt="" class="wp-image-11" srcset="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-1-1024x653.jpg 1024w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-1-300x191.jpg 300w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-1-768x490.jpg 768w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-1-1536x979.jpg 1536w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-1.jpg 1631w" sizes="(max-width: 1024px) 100vw, 1024px"></a><figcaption class="wp-element-caption">OLYMPUS DIGITAL CAMERA</figcaption></figure>
-                        <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="574" data-id="10" src="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-5-1024x574.jpg" alt="" class="wp-image-10" srcset="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-5-1024x574.jpg 1024w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-5-300x168.jpg 300w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-5-768x430.jpg 768w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-5-1536x861.jpg 1536w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-5-2048x1148.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Stitched Panorama</figcaption></figure>
-                        <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="700" height="525" data-id="9" src="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-2.jpg" alt="" class="wp-image-9" srcset="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-2.jpg 700w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-2-300x225.jpg 300w" sizes="(max-width: 700px) 100vw, 700px"></figure>
-                        <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="680" data-id="8" src="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-4-1024x680.jpg" alt="" class="wp-image-8" srcset="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-4-1024x680.jpg 1024w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-4-300x199.jpg 300w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-4-768x510.jpg 768w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-4.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
-                        <figure class="wp-block-image size-large"><a href="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-3.jpg"><img fetchpriority="high" decoding="async" width="1024" height="684" data-id="7" src="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-3-1024x684.jpg" alt="" class="wp-image-7" srcset="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-3-1024x684.jpg 1024w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-3-300x200.jpg 300w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-3-768x513.jpg 768w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-3.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
-                        <figure class="wp-block-image size-large"><a href="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-1.jpg"><img decoding="async" width="1024" height="653" data-id="11" src="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-1-1024x653.jpg" alt="" class="wp-image-11" srcset="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-1-1024x653.jpg 1024w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-1-300x191.jpg 300w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-1-768x490.jpg 768w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-1-1536x979.jpg 1536w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-1.jpg 1631w" sizes="(max-width: 1024px) 100vw, 1024px"></a><figcaption class="wp-element-caption">OLYMPUS DIGITAL CAMERA</figcaption></figure>
-                        <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="574" data-id="10" src="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-5-1024x574.jpg" alt="" class="wp-image-10" srcset="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-5-1024x574.jpg 1024w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-5-300x168.jpg 300w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-5-768x430.jpg 768w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-5-1536x861.jpg 1536w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-5-2048x1148.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Stitched Panorama</figcaption></figure>
-                        <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="700" height="525" data-id="9" src="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-2.jpg" alt="" class="wp-image-9" srcset="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-2.jpg 700w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-2-300x225.jpg 300w" sizes="(max-width: 700px) 100vw, 700px"></figure>
-                        <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="680" data-id="8" src="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-4-1024x680.jpg" alt="" class="wp-image-8" srcset="http://localhost/tumangan-site/wp-content/uploads/2024/06/image-4-1024x680.jpg 1024w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-4-300x199.jpg 300w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-4-768x510.jpg 768w, http://localhost/tumangan-site/wp-content/uploads/2024/06/image-4.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>                    
+                        <figure class="wp-block-image size-large"><a href="../uploads/image-3.jpg"><img fetchpriority="high" decoding="async" width="1024" height="684" data-id="7" src="../uploads/image-3.jpg" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+                        <figure class="wp-block-image size-large"><a href="../uploads/image-5.jpg"><img decoding="async" width="1024" height="653" data-id="11" src="../uploads/image-4.jpg" sizes="(max-width: 1024px) 100vw, 1024px"></a><figcaption class="wp-element-caption">OLYMPUS DIGITAL CAMERA</figcaption></figure>
+                        <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="574" data-id="10" src="../uploads/image-5.jpg" alt="" class="wp-image-10" srcset="../uploads/image-5.jpg 1024w, ../uploads/image-5.jpg 300w, ../uploads/image-5.jpg 768w, ../uploads/image-5.jpg 1536w, ../uploads/image-5.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Stitched Panorama</figcaption></figure>
+                        <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="700" height="525" data-id="9" src="../uploads/image-5.jpg" alt="" class="wp-image-9" srcset="../uploads/image-5.jpg 700w, ../uploads/image-5.jpg 300w" sizes="(max-width: 700px) 100vw, 700px"></figure>
+                        <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="680" data-id="8" src="../uploads/image-5.jpg" alt="" class="wp-image-8" srcset="../uploads/image-5.jpg 1024w, ../uploads/image-5.jpg 300w, ../uploads/image-5.jpg 768w, ../uploads/image-5.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+                        <figure class="wp-block-image size-large"><a href="../uploads/image-5.jpg"><img fetchpriority="high" decoding="async" width="1024" height="684" data-id="7" src="../uploads/image-5.jpg" alt="" class="wp-image-7" srcset="../uploads/image-5.jpg 1024w, ../uploads/image-5.jpg 300w, ../uploads/image-5.jpg 768w, ../uploads/image-5.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+                        <figure class="wp-block-image size-large"><a href="../uploads/image-5.jpg"><img decoding="async" width="1024" height="653" data-id="11" src="../uploads/image-5.jpg" alt="" class="wp-image-11" srcset="../uploads/image-2.jpg 1024w, ../uploads/image-2.jpg 300w, ../uploads/image-2.jpg 768w, ../uploads/image-2.jpg 1536w, ../uploads/image-2.jpg 1631w" sizes="(max-width: 1024px) 100vw, 1024px"></a><figcaption class="wp-element-caption">OLYMPUS DIGITAL CAMERA</figcaption></figure>
+                        <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="574" data-id="10" src="../uploads/image-2.jpg" alt="" class="wp-image-10" srcset="../uploads/image-2.jpg 1024w, ../uploads/image-2.jpg 300w, ../uploads/image-2.jpg 768w, ../uploads/image-2.jpg 1536w, ../uploads/image-2.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption class="wp-element-caption">Stitched Panorama</figcaption></figure>
+                        <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="700" height="525" data-id="9" src="../uploads/image-2.jpg" alt="" class="wp-image-9" srcset="../uploads/image-2.jpg 700w, ../uploads/image-2.jpg 300w" sizes="(max-width: 700px) 100vw, 700px"></figure>
+                        <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="680" data-id="8" src="../uploads/image-5.jpg" alt="" class="wp-image-8" srcset="../uploads/image-5.jpg 1024w, ../uploads/image-5.jpg 300w, ../uploads/image-5.jpg 768w, ../uploads/image-5.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>                    
                     </figure>
 
                     <ol>                    
@@ -116,7 +123,7 @@
     </div>
     </div>
     
-    <?php include 'tpl/site_footer.php'; ?>  
+    <?php include 'tpl/footer.php'; ?>  
 
     </div>          
     <div class="site-decore-1"></div>
