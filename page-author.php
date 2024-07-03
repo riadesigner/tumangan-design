@@ -6,7 +6,7 @@
 
     <title>Приморская общественная организация «Туманганский путь»</title>
     <link rel="shortcut icon" href="favicon.png" type="image/png">    
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/style.css?r=0031">
 
     <script type="text/javascript" src="./js/jquery.min.js"></script>
 
@@ -23,7 +23,7 @@
     <div class="site-mobile-header mobile">
         <a href="index.php" class="go-home-inner-link"></a>
     </div>
-        
+
     <div class="site-main-row">    
         
         <!-- SITE LEFT COLUMN -->

@@ -6,7 +6,7 @@
 
     <title>Приморская общественная организация «Туманганский путь»</title>
     <link rel="shortcut icon" href="favicon.png" type="image/png">    
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/style.css?r=0031">
 
     <script type="text/javascript" src="./js/jquery.min.js"></script>
 
