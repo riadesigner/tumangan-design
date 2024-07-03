@@ -15,7 +15,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400;1,500&display=swap" rel="stylesheet"> 
 
 </head>
-<body class="home">
+<body class="home side-menu-opened">
 
 <div class="site-all"> 
 
@@ -91,6 +91,8 @@
                     <?php include 'tpl/frontpage_talk.php'; ?>
 
                     <?php include 'tpl/frontpage_docs.php'; ?>
+
+                    <?php include 'tpl/frontpage_history_mobile.php'; ?>
 
                     <?php include 'tpl/frontpage_partners.php'; ?>
                     

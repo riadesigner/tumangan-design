@@ -19,6 +19,11 @@
 <div class="site-all">
     <div class="site-exclude-footer">
     <div class="site-top-row"></div>
+
+    <div class="site-mobile-header mobile">
+        <a href="index.php" class="go-home-inner-link"></a>
+    </div>
+        
     <div class="site-main-row">    
         
         <!-- SITE LEFT COLUMN -->

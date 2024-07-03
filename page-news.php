@@ -50,7 +50,7 @@
         <!-- SITE MAIN COLUMN -->
         <div class="site-main-column">            
         
-            <div class="breadcrumbs"><a href="index.php">Главная</a>  /  <a href="#">Новости</a>  /  ...</div>
+            <div class="breadcrumbs"><a href="index.php">Главная</a>  /  <a href="#">Новости</a>  /  170 лет прихода фрегата Паллада к бер...</div>
 
             <div class="site-head inside">
                 <a href="#" class="news-image" style="
